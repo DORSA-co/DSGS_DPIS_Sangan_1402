@@ -17,11 +17,13 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="btn" Type="Folder">
+			<Item Name="palletBtn.ctl" Type="VI" URL="../icons/palletBtn.ctl"/>
 			<Item Name="sensorBtn.ctl" Type="VI" URL="../icons/sensorBtn.ctl"/>
 			<Item Name="syncBtn.ctl" Type="VI" URL="../icons/syncBtn.ctl"/>
 			<Item Name="syncCaptureBtn.ctl" Type="VI" URL="../icons/syncCaptureBtn.ctl"/>
 			<Item Name="usBtn.ctl" Type="VI" URL="../icons/usBtn.ctl"/>
 		</Item>
+		<Item Name="cameraBtn.ctl" Type="VI" URL="../icons/cameraBtn.ctl"/>
 		<Item Name="databaseLibrary.lvlib" Type="Library" URL="../databaseLibrary.lvlib"/>
 		<Item Name="mainLibrary.lvlib" Type="Library" URL="../mainLibrary.lvlib"/>
 		<Item Name="maintenanceLibrary.lvlib" Type="Library" URL="../maintenanceLibrary.lvlib"/>
